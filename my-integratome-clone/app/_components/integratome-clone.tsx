@@ -86,7 +86,7 @@ export default function IntegratomeClone() {
 			</header>
 
 			{/* Hero Section */}
-			<section className='pt-32 pb-20 px-4 bg-gradient-to-br from-blue-50 to-white'>
+			<section className='pt-32 pb-20 px-4 bg-linear-to-br from-blue-50 to-white'>
 				<div className='max-w-7xl mx-auto'>
 					<div className='text-center max-w-4xl mx-auto'>
 						<h1 className='text-5xl md:text-6xl font-bold text-gray-900 mb-6'>
@@ -218,35 +218,35 @@ export default function IntegratomeClone() {
 					<div className='grid md:grid-cols-2 gap-12 items-center'>
 						<div className='space-y-6'>
 							<div className='flex items-start space-x-4'>
-								<CheckCircle className='w-6 h-6 text-green-600 flex-shrink-0 mt-1' />
+								<CheckCircle className='w-6 h-6 text-green-600 shrink-0 mt-1' />
 								<p className='text-gray-700'>
 									Mise en évidence des facteurs de vigilance et tendances du
 									profil pris en charge issus des données disponibles.
 								</p>
 							</div>
 							<div className='flex items-start space-x-4'>
-								<CheckCircle className='w-6 h-6 text-green-600 flex-shrink-0 mt-1' />
+								<CheckCircle className='w-6 h-6 text-green-600 shrink-0 mt-1' />
 								<p className='text-gray-700'>
 									Visualisation des écarts de santé par rapport à des profils de
 									référence issus de la population générale.
 								</p>
 							</div>
 							<div className='flex items-start space-x-4'>
-								<CheckCircle className='w-6 h-6 text-green-600 flex-shrink-0 mt-1' />
+								<CheckCircle className='w-6 h-6 text-green-600 shrink-0 mt-1' />
 								<p className='text-gray-700'>
 									Restitution structurée des orientations possibles en cohérence
 									avec les recommandations professionnelles.
 								</p>
 							</div>
 							<div className='flex items-start space-x-4'>
-								<CheckCircle className='w-6 h-6 text-green-600 flex-shrink-0 mt-1' />
+								<CheckCircle className='w-6 h-6 text-green-600 shrink-0 mt-1' />
 								<p className='text-gray-700'>
 									Conseils de santé publique organisés selon le profil déclaré.
 								</p>
 							</div>
 						</div>
 
-						<div className='bg-gradient-to-br from-blue-100 to-purple-100 p-8 rounded-2xl'>
+						<div className='bg-linear-to-br from-blue-100 to-purple-100 p-8 rounded-2xl'>
 							<div className='space-y-4'>
 								<div className='bg-white p-4 rounded-lg shadow-sm'>
 									<p className='font-semibold text-blue-600'>Gain de temps</p>
@@ -271,7 +271,7 @@ export default function IntegratomeClone() {
 			</section>
 
 			{/* Science Behind */}
-			<section className='py-20 px-4 bg-gradient-to-br from-blue-900 to-blue-700 text-white'>
+			<section className='py-20 px-4 bg-linear-to-br from-blue-900 to-blue-700 text-white'>
 				<div className='max-w-7xl mx-auto'>
 					<h2 className='text-4xl font-bold text-center mb-16'>
 						La science derrière le Jumeau Numérique de Santé d&apos;Integratome
@@ -423,7 +423,7 @@ export default function IntegratomeClone() {
 			{/* CTA */}
 			<section
 				id='contact'
-				className='py-20 px-4 bg-gradient-to-br from-blue-600 to-blue-800 text-white'>
+				className='py-20 px-4 bg-linear-to-br from-blue-600 to-blue-800 text-white'>
 				<div className='max-w-4xl mx-auto text-center'>
 					<h2 className='text-4xl font-bold mb-6'>
 						Prêt à transformer votre pratique médicale ?
